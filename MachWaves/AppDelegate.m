@@ -3,7 +3,10 @@
 //  MachWaves
 //
 //  Created by yeuchi on 3/9/14.
-//  Copyright (c) 2014 yeuchi. All rights reserved.
+//
+// Copyright (c) 2014 C.T. Yeung. All rights reserved.
+// Use of this source code is governed by a BSD-style license that can be
+// found in the LICENSE file. See the AUTHORS file for names of contributors.
 //
 
 #import "AppDelegate.h"
